@@ -1,0 +1,23 @@
+TITLE
+Beneath the Wilkes Subglacial Basin
+
+DESCRIPTION
+The East Antarctic Ice Sheet over the Wilkes Subglacial Basin is lifted off its bed to reveal the deep marine basin beneath it (BedMachine Antarctica v3).
+
+Animation: Matt King, University of Tasmania.
+Vertical exaggeration 100x. Topography drawn as columns; column roughness shows data density.
+
+Source data and models:
+- Bed topography and ice geometry: MEaSUREs BedMachine Antarctica, Version 3 (NSIDC, https://doi.org/10.5067/FPSU0V1MWUB6); Morlighem, M. et al. (2020), Deep glacial troughs and stabilizing ridges unveiled beneath the margins of the Antarctic ice sheet, Nature Geoscience 13, 132-137, https://doi.org/10.1038/s41561-019-0510-8
+- Ice velocity: MEaSUREs InSAR-Based Antarctica Ice Velocity Map, Version 2, 450 m (NSIDC, https://doi.org/10.5067/D7GK8F5J8M8R); Rignot, E., J. Mouginot & B. Scheuchl (2017); Mouginot, J., E. Rignot & B. Scheuchl (2019), Continent-wide, interferometric SAR phase mapping of Antarctic ice velocity, Geophysical Research Letters 46, 9710-9718, https://doi.org/10.1029/2019GL083826
+- Coastline, grounding line and islands: MODIS Mosaic of Antarctica 2003-2004 (MOA2004) Image Map, Version 1 (NSIDC, https://doi.org/10.7265/N5ZK5DM5); Haran, T., J. Bohlander, T. Scambos, T. Painter & M. Fahnestock (2005, updated 2013); Scambos, T. A. et al. (2007), Remote Sensing of Environment 111, 242-257, https://doi.org/10.1016/j.rse.2006.12.020
+- Radar survey lines: Bedmap3 standardised point data (NERC EDS UK Polar Data Centre, https://doi.org/10.5285/2d0e4791-8e20-46a3-80e4-f5f6716025d2); Pritchard, H. D. et al. (2025), Bedmap3 updated ice bed, surface and thickness gridded datasets for Antarctica, Scientific Data 12, 414, https://doi.org/10.1038/s41597-025-04672-y
+- Bathymetry data-coverage mask: International Bathymetric Chart of the Southern Ocean Version 2 (IBCSO v2); Dorschel, B. et al. (2022), Scientific Data 9, 275, https://doi.org/10.1038/s41597-022-01366-7
+
+Data archive: BedMachine Antarctica, the MEaSUREs ice velocity map and MOA2004 were obtained from the National Snow and Ice Data Center (NSIDC), Boulder, Colorado, USA, including the NASA NSIDC Distributed Active Archive Center (DAAC) for the MEaSUREs products: https://nsidc.org
+
+TAGS
+Antarctica, ice sheet, Wilkes Subglacial Basin, bedrock, sea level, glaciology, University of Tasmania
+
+UPLOAD SETTINGS
+1920x1080 30 fps H.264 (High), yuv420p BT.709, AAC silent track; category: Science & Technology; add a custom thumbnail from _frames/youtube_cards or a still.

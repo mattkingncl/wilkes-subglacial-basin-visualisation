@@ -1,0 +1,23 @@
+TITLE
+Beneath the Wilkes Subglacial Basin — Lifting the East Antarctic Ice Sheet off its bed
+
+DESCRIPTION
+The East Antarctic Ice Sheet over the Wilkes Subglacial Basin is lifted off its bed to reveal the deep marine basin beneath it (BedMachine Antarctica v3).
+
+Animation: Matt King, University of Tasmania.
+Vertical exaggeration 100x. Topography drawn as columns; column roughness shows data density.
+
+Data and models:
+- Bed and ice geometry: BedMachine Antarctica v3 (Morlighem et al., 2020)
+- Ice velocity: MEaSUREs InSAR-based Antarctic ice velocity (Mouginot, Rignot & Scheuchl)
+- Coastline and grounding line: MODIS Mosaic of Antarctica (MOA)
+- Radar flight lines: Bedmap; bathymetry: IBCSO v2
+- Pliocene-like ice sheet: PISM simulation
+
+Data archive: BedMachine Antarctica, the MEaSUREs ice velocity map and MOA2004 were obtained from the National Snow and Ice Data Center (NSIDC), Boulder, Colorado, USA, including the NASA NSIDC Distributed Active Archive Center (DAAC) for the MEaSUREs products: https://nsidc.org
+
+TAGS
+Antarctica, ice sheet, Wilkes Subglacial Basin, bedrock, sea level, glaciology, University of Tasmania
+
+UPLOAD SETTINGS
+1920x1080 30 fps H.264 (High), yuv420p BT.709, AAC silent track; category: Science & Technology; add a custom thumbnail from _frames/youtube_cards or a still.

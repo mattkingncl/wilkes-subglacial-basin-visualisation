@@ -1,0 +1,8 @@
+# renders and frames (large; regenerable from the scripts)
+_frames/
+*.mp4
+*.mov
+*.gif
+ideas/
+__pycache__/
+.claude/
