@@ -6,3 +6,8 @@ _frames/
 ideas/
 __pycache__/
 .claude/
+
+# local-only work, deliberately kept off the public repo
+flipbook/
+wilkes_basin_proximity_map.*
+wsb_outline_epsg3031.geojson
